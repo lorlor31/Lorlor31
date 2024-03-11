@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lorlor31 - Welcome to my Github profile !🖱️⌨️🖥️ 
-- 👀 I’m interested in learning coding for web
+- 👀 I’m interested in learning web development
 - 🌱 I’m currently learning Symfony, Tailwind and other stuffs
 - 💞️ I’m finishing my 6-months bootcamp with O'Clock School
 
