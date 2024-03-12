@@ -4,7 +4,7 @@
 - 💞️ I’m finishing my 6-months bootcamp with O'Clock School
 
 Here are some personal projects you may like to visit to see more about my work !
-https://lorlor31.github.io/Memento/
+https://lorlor31.github.io
 
 
 <!---
