@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lorlor31 - Welcome to my Github profile !🖱️⌨️🖥️ 
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning Symfony, Tailwind and other stuffs
-- 💞️ I’m finishing my 6-months bootcamp with O'Clock School
+- 👀 I’m working as a web developer on e-commerce websites based on WordPress
+- 🌱 I’m having fun with personal projects made with Symfony, React and Tailwind
+- 💞️ I love to be challenged with new technologies
 
 Here are some personal projects you may like to visit to see more about my work !
 https://lorlor31.github.io
